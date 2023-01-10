@@ -4,10 +4,12 @@ Bem vindo (a)!
 Renato Santos - Android Developer Jr.
 ---------------------
 
-Formado em Sistemas de Informação e atualmente cursando MBA em Mobile Development na FIAP 
-Possuo experiência com Análise de Sistemas, porém meus interesses são em focar no mundo mobile e aprender mais sobre suas ferramentas e frameworks 
-Estou montando um portfólio do que estudo aqui neste repositório, pouco a pouco
-Atualmente trabalhando em paralelo no meu TCC, e por isso não consigo manter commits diariamente 🥺
+Formado em Sistemas de Informação e atualmente cursando MBA em Mobile Development na FIAP, estou progredindo no TCC  
+Possuo experiência com Análise de Sistemas, porém meus interesses são em focar no mundo mobile e aprender mais sobre suas ferramentas e frameworks, além de adquirir experiência para ajudar em projetos open-source e software internals (XDA Developers é como minha segunda casa)  
+Estou montando um portfólio do que estudo aqui neste repositório, pouco a pouco, e a partir do momento que adquirir experiência, progredir cada vez mais longe
+
+Atualmente trabalho em paralelo no meu TCC, e por isso preciso dividir constantemente o foco  
+Por isso, não terei como manter commits diários (por enquanto)
 
 *   🌍  Osasco/SP
 *   🧠  Estou aprendendo mais sobre Jetpack/Arquiteturas e conceitos de código/ciclo de vida do Android
@@ -22,7 +24,16 @@ Atualmente trabalhando em paralelo no meu TCC, e por isso não consigo manter co
 <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 </p>
-                    
+ 
+
+| Componentes e Serviços | Link |
+| ------ | ------ |
+| CodeFactor | https://www.codefactor.io/ |
+| Codebeat | https://codebeat.co/ |
+| Detekt | https://detekt.dev/ |
+| kotlinter | https://github.com/jeremymailen/kotlinter-gradle |
+| Twitter Jetpack Compose Rules | https://twitter.github.io/compose-rules/ |
+
  ### Me encontre!
   
   <div> 
